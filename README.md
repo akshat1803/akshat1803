@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshat sharma</h1>
 
-- 🔭 I’m currently working on JavaScript.
+- 🔭 I’m currently working on React Js.
 
 - 🌱 I’m currently learning FullStackDevelopment.
 
@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact: Something Funny is Fun .
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack Developer developer from India</h3>
 <img src="https://miro.medium.com/v2/format:jpg/resize:fit:680/1*IRGHmiGsa16stedQvIaZfw.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat1803&label=Profile%20views&color=0e75b6&style=flat" alt="akshat1803" /> </p>
 
