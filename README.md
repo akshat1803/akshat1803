@@ -14,7 +14,7 @@
 
 
 <h3 align="center">A passionate Fullstack Developer developer from India</h3>
-<img src="https://miro.medium.com/v2/format:jpg/resize:fit:680/1*IRGHmiGsa16stedQvIaZfw.gif" alt="">
+<p align="center"><img src="https://miro.medium.com/v2/format:jpg/resize:fit:680/1*IRGHmiGsa16stedQvIaZfw.gif" alt=""></p>
 
 
 <h3 align="left">Connect with me:</h3>
